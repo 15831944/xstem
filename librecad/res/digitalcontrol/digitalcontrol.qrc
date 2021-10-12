@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/digitalcontrol">
+        <file>744.png</file>
+        <file>1683.png</file>
+        <file>2242.png</file>
+    </qresource>
+</RCC>
